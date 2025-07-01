@@ -67,7 +67,7 @@ This dashboard is useful for:
 
 ## 🖼️ Sample Visuals 
 
-> Add screenshots of your dashboard here if desired.
+![Alt Text](https://github.com/Shounakkapoor/data-career-survey-analysis/blob/main/Visual.png)
 
 ---
 
